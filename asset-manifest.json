@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sk-react/static/css/main.c2126def.chunk.css",
+    "main.js": "/sk-react/static/js/main.9fd64d4c.chunk.js",
+    "main.js.map": "/sk-react/static/js/main.9fd64d4c.chunk.js.map",
+    "runtime-main.js": "/sk-react/static/js/runtime-main.f25596b1.js",
+    "runtime-main.js.map": "/sk-react/static/js/runtime-main.f25596b1.js.map",
+    "static/js/2.45c73378.chunk.js": "/sk-react/static/js/2.45c73378.chunk.js",
+    "static/js/2.45c73378.chunk.js.map": "/sk-react/static/js/2.45c73378.chunk.js.map",
+    "static/js/3.2f4fa670.chunk.js": "/sk-react/static/js/3.2f4fa670.chunk.js",
+    "static/js/3.2f4fa670.chunk.js.map": "/sk-react/static/js/3.2f4fa670.chunk.js.map",
+    "index.html": "/sk-react/index.html",
+    "static/css/main.c2126def.chunk.css.map": "/sk-react/static/css/main.c2126def.chunk.css.map",
+    "static/js/2.45c73378.chunk.js.LICENSE.txt": "/sk-react/static/js/2.45c73378.chunk.js.LICENSE.txt",
+    "static/media/a1image.50f75afd.jpg": "/sk-react/static/media/a1image.50f75afd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f25596b1.js",
+    "static/js/2.45c73378.chunk.js",
+    "static/css/main.c2126def.chunk.css",
+    "static/js/main.9fd64d4c.chunk.js"
+  ]
+}
